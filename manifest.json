@@ -1,7 +1,7 @@
 {
-  "name": "Solarized DevTools Theme",
+  "name": "Light DevTools Theme",
   "version": "0.1",
-  "description": "Solarized DevTools theme. Enable DevTools experiments in about:flags, then open DevTools and toggle \"Allow UI themes\" experiment.",
+  "description": "Chrome theme with a light readable color scheme. Enable DevTools experiments in about:flags, then open DevTools and toggle \"Allow UI themes\" experiment.",
   "devtools_page": "devtools.html",
   "manifest_version": 2
 }

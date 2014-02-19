@@ -1,2 +1,20 @@
+.panel {
+  background-color: #F5F5F5 ;
+  font-size: 1em;
+  font-family: Helvetica;
+}
 
+.webkit-html-tag{
+    color: #073642  !important;
+    font-weight: bold;
+}
+
+.webkit-html-attribute-name{
+    color: #b58900 !important;
+}
+
+.expanded {
+    border: 1px dashed #586e75;
+    margin: 5px !important;
+}
 

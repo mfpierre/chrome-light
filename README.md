@@ -1,4 +1,4 @@
 chrome-solarized
 ================
 
-Chrome theme with Solarized color scheme
+Chrome theme with a light readable color scheme
